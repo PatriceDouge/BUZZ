@@ -1,0 +1,39 @@
+
+/* Class = "UITextField"; placeholder = "username"; ObjectID = "11b-iZ-wLb"; */
+"11b-iZ-wLb.placeholder" = "Nom d'utilisateur";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "1BD-mN-EJ2"; */
+"1BD-mN-EJ2.normalTitle" = "Registre";
+
+/* Class = "UITextField"; placeholder = "username"; ObjectID = "FXL-RI-FT6"; */
+"FXL-RI-FT6.placeholder" = "Nom d'utilisateur";
+
+/* Class = "UILabel"; text = "You are Logged In!"; ObjectID = "RXj-tG-eEz"; */
+"RXj-tG-eEz.text" = "Vous êtes authentifié!";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Uze-ow-naz"; */
+"Uze-ow-naz.normalTitle" = "S'identifier";
+
+/* Class = "UIButton"; normalTitle = "New here? Click here to Register"; ObjectID = "ZAT-CF-ouY"; */
+"ZAT-CF-ouY.normalTitle" = "Nouveau ici? Cliquez ici pour vous inscrire";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "eiF-Xa-uUD"; */
+"eiF-Xa-uUD.text" = "Registre";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "kVc-u8-rRr"; */
+"kVc-u8-rRr.placeholder" = "mot de passe";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "kdo-tE-dua"; */
+"kdo-tE-dua.placeholder" = "mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Already have an account? Click here"; ObjectID = "mzQ-Ng-SAD"; */
+"mzQ-Ng-SAD.normalTitle" = "Vous avez déjà un compte? Cliquez ici";
+
+/* Class = "UILabel"; text = "Wear n' Share"; ObjectID = "pez-ku-B0P"; */
+"pez-ku-B0P.text" = "Wear n' Share";
+
+/* Class = "UITextField"; placeholder = "re-enter password"; ObjectID = "pts-m7-F93"; */
+"pts-m7-F93.placeholder" = "Retaper le mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "wcw-WL-87o"; */
+"wcw-WL-87o.normalTitle" = "Connectez - Out";
